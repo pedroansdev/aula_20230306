@@ -34,7 +34,7 @@ _Com o Underline é possível colocar as coisas em italico_ **e com o asterísco
   
 <span id="mdDetalhado">
 
-Se vc colocar uma hashtag sem nada escrito, ele fica como se fosse um ```<hr>``` do <a href="https://www.w3schools.com/html/">html</a>, e pra dar esse destaque a gente usa 3 acentos agudos e a palavra no meio, e como você pode ver, também podemos usar o ```<a href="...">``` como no html
+Se vc colocar uma hashtag sem nada escrito, ele fica como se fosse um ```<hr>``` do <a href="https://www.w3schools.com/html/" target="_blank">html</a>, e pra dar esse destaque a gente usa 3 acentos agudos e a palavra no meio, e como você pode ver, também podemos usar o ```<a href="...">``` como no html
 
 > Com o ```>``` podemos criar como se fosse uma citação ou observação, geralmente utilizamos também com o _Itálico_ para ficar mais bonito e destacado
   
